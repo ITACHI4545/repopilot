@@ -1,7 +1,9 @@
 [
   "tests/test_chunker.py::test_chunk_python_file",
   "tests/test_embeddings.py::test_embed_text",
+  "tests/test_indexer.py::test_index_repository",
   "tests/test_parser.py::test_parse_python_file",
+  "tests/test_retriever.py::test_retrieve_code",
   "tests/test_scanner.py::test_scan_repository",
   "tests/test_vector_store.py::test_vector_store"
 ]
